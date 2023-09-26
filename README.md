@@ -1,6 +1,9 @@
 # Music Transformer Project
 
 Welcome to the Music Transformer project! This project explores the world of music generation using state-of-the-art language models like GPT-2 and BERT. Whether you're a music enthusiast or a machine learning wizard, this project will intrigue you.
+
+
+##
 ![Music Generation GIF](https://media.giphy.com/media/KbTUp85em6hdmmgTfK/giphy.gif)
 
 ## Project Overview
